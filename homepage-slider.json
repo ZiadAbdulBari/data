@@ -1,20 +1,22 @@
-[
-    {
-        "link":"https://shorturl.at/cemnZ"
-    },
-    {
-        "link":"https://shorturl.at/dG034"
-    },
-    {
-        "link":"https://shorturl.at/cFPV8"
-    },
-    {
-        "link":"https://shorturl.at/cfpuJ"
-    },
-    {
-        "link":"https://shorturl.at/cfpuJ"
-    },
-    {
-        "link":"https://shorturl.at/bmpRY"
-    }
-]
+{
+    "images":[
+        {
+            "link": "https://shorturl.at/cemnZ"
+        },
+        {
+            "link": "https://shorturl.at/dG034"
+        },
+        {
+            "link": "https://shorturl.at/cFPV8"
+        },
+        {
+            "link": "https://shorturl.at/cfpuJ"
+        },
+        {
+            "link": "https://shorturl.at/cfpuJ"
+        },
+        {
+            "link": "https://shorturl.at/bmpRY"
+        }
+    ]
+}
