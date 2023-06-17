@@ -1,0 +1,54 @@
+{
+    "orders": [
+      {
+        "order_id": "987654",
+        "product": "Apple iPhone 12 Pro",
+        "quantity": 2,
+        "price_per_unit": 1199.99,
+        "total_price": 2399.98,
+        "customer": "John Smith",
+        "shipping_address": "123 Main Street, Cityville, USA",
+        "order_date": "2023-06-01"
+      },
+      {
+        "order_id": "876543",
+        "product": "Samsung 65\" 4K Ultra HD Smart TV",
+        "quantity": 1,
+        "price_per_unit": 1499.99,
+        "total_price": 1499.99,
+        "customer": "Sarah Johnson",
+        "shipping_address": "456 Elm Avenue, Townsville, USA",
+        "order_date": "2023-06-03"
+      },
+      {
+        "order_id": "765432",
+        "product": "Sony PlayStation 5",
+        "quantity": 1,
+        "price_per_unit": 499.99,
+        "total_price": 499.99,
+        "customer": "Michael Williams",
+        "shipping_address": "789 Oak Lane, Villageton, USA",
+        "order_date": "2023-06-05"
+      },
+      {
+        "order_id": "654321",
+        "product": "Nike Air Max 270 Sneakers",
+        "quantity": 1,
+        "price_per_unit": 149.99,
+        "total_price": 149.99,
+        "customer": "Emily Davis",
+        "shipping_address": "321 Pine Street, Hamletown, USA",
+        "order_date": "2023-06-07"
+      },
+      {
+        "order_id": "543210",
+        "product": "Canon EOS Rebel T7i DSLR Camera",
+        "quantity": 1,
+        "price_per_unit": 799.99,
+        "total_price": 799.99,
+        "customer": "David Wilson",
+        "shipping_address": "567 Cedar Road, Boroughville, USA",
+        "order_date": "2023-06-10"
+      }
+    ]
+  }
